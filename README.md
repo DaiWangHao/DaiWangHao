@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+Welcome! My ![Visitor Count](https://profile-counter.glitch.me/Leo/count.svg)  counter😄!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaiWangHao)](https://github.com/Christmas/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaiWangHao&show_icons=true&theme=tokyonight)
